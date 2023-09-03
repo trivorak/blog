@@ -5,3 +5,8 @@ draft= false
 +++
 
 Test content does this **work**
+
+```python
+vari = "whatever"
+print(vari)
+```
