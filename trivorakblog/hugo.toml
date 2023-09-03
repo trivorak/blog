@@ -1,0 +1,4 @@
+baseURL = 'https://trivorak.github.io/'
+languageCode = 'en-us'
+title = 'trivorak blog'
+theme="archie"

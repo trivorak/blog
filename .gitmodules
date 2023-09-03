@@ -1,0 +1,7 @@
+[submodule "trivorakblog/themes/gokarna"]
+	path = trivorakblog/themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "trivorakblog/public"]
+	path = trivorakblog/public
+	url = https://github.com/trivorak/trivorak.github.io.git
+	branch = main
