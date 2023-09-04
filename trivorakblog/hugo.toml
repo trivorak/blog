@@ -1,7 +1,13 @@
 baseURL = 'https://trivorak.github.io/'
 languageCode = 'en-us'
-title = 'trivorak blog'
+title = 'trivorak'
 theme="contrast-hugo"
 
 [Params]
-	mode = 'dark'
+	minimal = false
+[menu]
+	[[menu.main]]
+		identifier = "about"
+		name = "About"
+		url = "/about/"
+		weight = 10
