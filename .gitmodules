@@ -5,3 +5,6 @@
 	path = trivorakblog/public
 	url = https://github.com/trivorak/trivorak.github.io.git
 	branch = main
+[submodule "trivorakblog/themes/contrast-hugo"]
+	path = trivorakblog/themes/contrast-hugo
+	url = https://github.com/trivorak/contrast-hugo
